@@ -1,0 +1,22 @@
+# Máquina 1: exemplo do enunciado (Máquina de Moore)
+# Estados: s0, s1, s2   |  Entradas: 0, 1   |  Saídas: 0, 1
+#
+# Transições:
+#   s0 --0--> s1     s0 --1--> s0
+#   s1 --0--> s2     s1 --1--> s1
+#   s2 --0--> s2     s2 --1--> s0
+#
+# Saídas por estado: s0/0, s1/1, s2/1
+
+ni=1
+no=1
+ns=2
+estado_inicial=0
+
+TE:
+1 0
+2 1
+2 0
+
+VS:
+0 1 1

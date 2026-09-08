@@ -1,7 +1,6 @@
-# Máquina 2: verificador de paridade
-# Detecta se a quantidade de 1's recebidos até agora é par ou ímpar.
-# Estados: s0 = quantidade par de 1's (saída 0)
-#          s1 = quantidade ímpar de 1's (saída 1)
+# Máquina 2:
+# Estados: s0 = saída 0
+#          s1 = saída 1
 # Entradas: 0, 1   |   Saídas: 0, 1
 #
 # Transições:

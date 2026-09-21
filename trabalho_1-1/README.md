@@ -1,6 +1,6 @@
 # Máquina de Estados Finitos (FSM)
 
-Simulador genérico de uma máquina de estados finitos (Máquina de Moore), feito para a **1ª Lista de Programação** da disciplina **Autômatos e Linguagens Formais (DCA-3705)** — UFRN, 2026.2.
+Simulador genérico de uma máquina de estados finitos (Máquina de Moore), feito para o **Trabalho 1-1** da disciplina **Autômatos e Linguagens Formais (DCA-3705)** — UFRN, 2026.2.
 
 ## Como funciona
 

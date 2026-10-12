@@ -2,7 +2,7 @@
 
 **Atividade:** 3ª Lista de Programação
 
-**Vídeo de apresentação:** _<link do vídeo aqui>_
+**Vídeo de apresentação:** [_link do vídeo_](https://drive.google.com/file/d/1UQQO22zudtPV5U-6NFaw7uugq83tBWvp/view?usp=sharing)
 
 ---
 
